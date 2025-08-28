@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 file 1 is modiefied in master branch
+
+>>>>>>> first-branch
 
